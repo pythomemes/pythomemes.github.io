@@ -7,7 +7,7 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Launch Chrome against localhost",
+            "name": "Launch Chrome for pythomemes.github.io",
             "url": "http://pythomemes.github.io",
             "webRoot": "${workspaceFolder}"
         }
