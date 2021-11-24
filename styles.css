@@ -5,6 +5,16 @@ h1 {
     
 }
 
+h2 {
+
+    text-align: center;
+    font-family: "Georgia", sans-serif;
+    font-weight: normal;
+    color: indigo;
+
+
+}
+
 p {
 
     font-family: "georgia", sans-serif;
